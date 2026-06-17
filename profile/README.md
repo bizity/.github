@@ -6,12 +6,12 @@ The modern web is fragmented across websites, social platforms, directories, por
 
 ## What We're Building
 
-• Profiles for individuals, professionals, creators, organizations, and businesses
-• Public showcases and visibility tools
-• Search and discovery systems
-• Events, spotlights, and community participation
-• Opportunity and referral ecosystems
-• AI-assisted guidance and growth tools
+* Profiles for individuals, professionals, creators, organizations, and businesses
+* Public showcases and visibility tools
+* Search and discovery systems
+* Events, spotlights, and community participation
+* Opportunity and referral ecosystems
+* AI-assisted guidance and growth tools
 
 ## Our Principles
 
